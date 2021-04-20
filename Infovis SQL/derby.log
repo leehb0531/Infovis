@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jan 30 12:34:05 HST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0177-556e-924e-000006d81dd8 
+on database directory /Users/hongbinlee/Project/Infovis SQL/MyDbTest with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@707f7052 
+Loaded from file:/Users/hongbinlee/Dev/Derby/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=13.0.6+5-MTS
+user.dir=/Users/hongbinlee/Project/Infovis SQL
+os.name=Mac OS X
+os.arch=aarch64
+os.version=11.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
